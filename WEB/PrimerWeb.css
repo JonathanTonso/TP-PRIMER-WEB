@@ -1,0 +1,40 @@
+*{
+    box-sizing: border-box;
+    margin: auto;
+
+}
+
+body{
+    background-color: aqua;
+}
+
+.menu,
+.contenido{
+
+    max-width: 1000px;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+
+.menu-items{
+
+background-color: blue;
+margin-top: 100px;
+list-style: none;
+display: flex;
+
+
+}
+
+.menu-items_link{
+
+background-color: tomato;
+text-decoration: none;
+
+      
+}
+
+.contenido{
+    background-color: yellow;
+}
